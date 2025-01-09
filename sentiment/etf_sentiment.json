@@ -1,0 +1,197 @@
+{
+    "ETH": {
+        "positive": 0,
+        "neutral": 6,
+        "negative": 4
+    },
+    "BTC": {
+        "positive": 0,
+        "neutral": 15,
+        "negative": 3
+    },
+    "AR": {
+        "positive": 1,
+        "neutral": 14,
+        "negative": 0
+    },
+    "ETC": {
+        "positive": 0,
+        "neutral": 4,
+        "negative": 1
+    },
+    "AXS": {
+        "positive": 0,
+        "neutral": 2,
+        "negative": 0
+    },
+    "BAT": {
+        "positive": 0,
+        "neutral": 2,
+        "negative": 0
+    },
+    "USDC": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 1
+    },
+    "FTT": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 1
+    },
+    "NEXO": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0
+    },
+    "QQQ": {
+        "positive": 1,
+        "neutral": 111,
+        "negative": 29
+    },
+    "SPY": {
+        "positive": 0,
+        "neutral": 170,
+        "negative": 52
+    },
+    "VYM": {
+        "positive": 0,
+        "neutral": 14,
+        "negative": 0
+    },
+    "LQD": {
+        "positive": 0,
+        "neutral": 3,
+        "negative": 1
+    },
+    "VNQ": {
+        "positive": 0,
+        "neutral": 6,
+        "negative": 1
+    },
+    "SHY": {
+        "positive": 0,
+        "neutral": 5,
+        "negative": 3
+    },
+    "HYG": {
+        "positive": 0,
+        "neutral": 3,
+        "negative": 2
+    },
+    "IEF": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 4
+    },
+    "AGG": {
+        "positive": 0,
+        "neutral": 4,
+        "negative": 3
+    },
+    "IWM": {
+        "positive": 0,
+        "neutral": 4,
+        "negative": 3
+    },
+    "XLK": {
+        "positive": 0,
+        "neutral": 2,
+        "negative": 1
+    },
+    "DIA": {
+        "positive": 0,
+        "neutral": 6,
+        "negative": 2
+    },
+    "TLT": {
+        "positive": 0,
+        "neutral": 11,
+        "negative": 11
+    },
+    "GLD": {
+        "positive": 0,
+        "neutral": 4,
+        "negative": 0
+    },
+    "GDX": {
+        "positive": 0,
+        "neutral": 3,
+        "negative": 0
+    },
+    "XLE": {
+        "positive": 1,
+        "neutral": 8,
+        "negative": 5
+    },
+    "USO": {
+        "positive": 0,
+        "neutral": 3,
+        "negative": 1
+    },
+    "LIT": {
+        "positive": 0,
+        "neutral": 4,
+        "negative": 0
+    },
+    "XBI": {
+        "positive": 0,
+        "neutral": 4,
+        "negative": 0
+    },
+    "FXE": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 1
+    },
+    "SLV": {
+        "positive": 0,
+        "neutral": 2,
+        "negative": 0
+    },
+    "XLU": {
+        "positive": 0,
+        "neutral": 3,
+        "negative": 1
+    },
+    "EWZ": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 2
+    },
+    "XLF": {
+        "positive": 0,
+        "neutral": 6,
+        "negative": 2
+    },
+    "XLP": {
+        "positive": 0,
+        "neutral": 2,
+        "negative": 0
+    },
+    "MJ": {
+        "positive": 1,
+        "neutral": 2,
+        "negative": 0
+    },
+    "PBD": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0
+    },
+    "XME": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0
+    },
+    "REMX": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0
+    },
+    "BLOK": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0
+    }
+}

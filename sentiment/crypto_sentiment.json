@@ -1,0 +1,47 @@
+{
+    "ETH": {
+        "positive": 0,
+        "neutral": 6,
+        "negative": 4
+    },
+    "BTC": {
+        "positive": 0,
+        "neutral": 15,
+        "negative": 3
+    },
+    "AR": {
+        "positive": 1,
+        "neutral": 14,
+        "negative": 0
+    },
+    "ETC": {
+        "positive": 0,
+        "neutral": 4,
+        "negative": 1
+    },
+    "AXS": {
+        "positive": 0,
+        "neutral": 2,
+        "negative": 0
+    },
+    "BAT": {
+        "positive": 0,
+        "neutral": 2,
+        "negative": 0
+    },
+    "USDC": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 1
+    },
+    "FTT": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 1
+    },
+    "NEXO": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0
+    }
+}
